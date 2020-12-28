@@ -1,1 +1,2 @@
 Good bye!
+Add line by user2
