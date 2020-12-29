@@ -1,2 +1,2 @@
 Hello world!!!!
-Add line by user1
+Add line by user1[user2]
